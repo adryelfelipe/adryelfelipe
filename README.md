@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+<h2 align="left">👩‍💻  Sobre mim</h2>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="left">🛠 Linguagens e ferramentas</h3>
+<h2 align="left">🛠 Linguagens e ferramentas</h2>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<h3 align="left">🔥   Meu Status:</h3>
+<h2 align="left">🔥   Meu Status:</h2>
 
 ###
 
