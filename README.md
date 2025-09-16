@@ -47,7 +47,7 @@
 
 
 
-<h2 align="left">🔥   Em constante progresso:</h2>
+<h2 align="left">🔥   Código limpo:</h2>
 
 ###
 
