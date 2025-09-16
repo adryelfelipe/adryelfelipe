@@ -45,12 +45,14 @@
 
 ###
 
-<h2 align="left">🔥   Meu Status:</h2>
+
+
+<h2 align="left">🔥   Em constante progresso:</h2>
 
 ###
 
 <div align="center">
-![Image](https://github.com/user-attachments/assets/45c46584-92b7-4653-bb58-0b05738ab3e0)
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFzbXNxb2x1djRvOGs4eGZ3NXM5bzMxdjg2NGh1YmFjNjM1cTgzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hPRTKWNX5DV0o58OGg/giphy.gif"  />
 </div>
 
 ###
