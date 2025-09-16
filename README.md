@@ -50,7 +50,7 @@
 ###
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adryelfelipe&theme=radical&locale=pt_BR&mode=weekly&type=png" alt="GitHub Streak" /></a>
+![Image](https://github.com/user-attachments/assets/45c46584-92b7-4653-bb58-0b05738ab3e0)
 </div>
 
 ###
