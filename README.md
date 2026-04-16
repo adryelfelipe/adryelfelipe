@@ -1,58 +1,84 @@
-<div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejVsaTJiYTljdmxoZzlrYmU2Y2lzYjBtZmZ2aWxyOTZzbWtwM3o0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.gif"  />
-</div>
+<h1 align="center">Adryel Felipe</h1>
 
-###
+<p align="center">
+  Desenvolvedor Backend focado em Java e Spring Boot<br>
+  Construindo APIs bem estruturadas e sistemas escaláveis
+</p>
 
-<div align="center">
-  <a href="https://www.instagram.com/_adryelfelipe_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/adryel-sapelli-4b8566370/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+<p align="center">
+  <a href="https://github.com/adryelfelipe">GitHub</a> •
+  <a href="https://www.linkedin.com/in/adryel-sapelli-4b8566370/">LinkedIn</a>
+</p>
 
-###
+---
 
-<h1 align="center">Olá! Me chamo Adryel Felipe!👋</h1>
+## 🚀 Sobre
 
-###
+Desenvolvedor Backend com foco em Java e Spring Boot, atuando na construção de APIs REST bem estruturadas, escaláveis e de fácil manutenção.
 
-<h2 align="left">👩‍💻  Sobre mim</h2>
+Experiência no desenvolvimento de aplicações com arquitetura em camadas inspirada na arquitetura hexagonal, aplicando princípios como SOLID e boas práticas de engenharia de software.
 
-###
+Vivência em ambiente profissional na WEG, trabalhando em equipe com versionamento Git, code reviews e metodologias ágeis.
 
-<p align="left">🖥️ Desenvolvedor em formação | Aprendiz no CentroWeg<br><br>🔍 Mergulhando no universo da programação, explorando novas linguagens e tecnologias. Focado em construir soluções que resolvam problemas reais.<br><br>💡 Acredito que cada desafio é uma oportunidade para crescer e me adaptar rapidamente às mudanças da tecnologia.<br><br>🌱 Procurando projetos que me permitam crescer, trocar ideias e desenvolver minhas habilidades na prática.</p>
+---
 
-###
+## 🧠 Tecnologias
 
-<h2 align="left">🛠 Linguagens e ferramentas</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,aws" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
+## 📌 Projetos
 
-###
+### 🎬 ScreenScore API  
+API REST para gerenciamento e avaliação de filmes.
 
+- CRUD completo de filmes, usuários e avaliações  
+- Filtros por título e gênero com múltiplos parâmetros  
+- Integração com API externa de filmes (OpenFeign)  
+- Upload e gerenciamento de imagens com AWS S3  
+- Documentação com OpenAPI/Swagger  
+- Tratamento de erros padronizado (RFC 7807)  
 
+🔗 https://github.com/adryelfelipe/ScreenScore-API
 
-<h2 align="left">🔥   Código limpo:</h2>
+---
 
-###
+### 💰 ContaFácil App  
+Sistema backend para análise inteligente de extratos bancários com IA.
 
-<div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFzbXNxb2x1djRvOGs4eGZ3NXM5bzMxdjg2NGh1YmFjNjM1cTgzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hPRTKWNX5DV0o58OGg/giphy.gif"  />
-</div>
+- Arquitetura de microserviços (Auth, User, Statement)  
+- Autenticação segura e sessões distribuídas com Redis  
+- Integração com IA (Gemini) para categorização automática  
+- Comunicação entre serviços com OpenFeign  
+- Aplicação de DDD e boas práticas de arquitetura  
 
-###
+🔗 https://github.com/adryelfelipe/contafacil-app
+
+---
+
+## 💼 Experiência
+
+**WEG S.A.** — Aprendiz em Desenvolvimento de Software  
+*Mai 2025 - Presente*
+
+- Desenvolvimento backend com Java e Spring Boot  
+- Participação em decisões técnicas e modelagem de domínio  
+- Uso de Git com fluxo de branches, PRs e code review  
+- Atuação em metodologia ágil (Scrum)
+
+---
+
+## 🎓 Formação
+
+Análise e Desenvolvimento de Sistemas — PUCPR *(em andamento)*  
+Programa Técnico em Desenvolvimento de Sistemas — WEG *(em andamento)*
+
+---
+
+## 🌎 Idiomas
+
+- Português — Nativo  
+- Inglês — Intermediário
