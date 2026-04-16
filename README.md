@@ -25,7 +25,7 @@ Vivência em ambiente profissional na WEG, trabalhando em equipe com versionamen
 ## 🧠 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,aws" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,aws,git" />
 </p>
 
 ---
